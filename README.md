@@ -13,22 +13,25 @@ bash
 nano encrypt.py
 Isi dengan:
 
-python
-
 import zlib, base64
+
 with open('manzax_full.py', 'r') as f:
     source = f.read()
+
 compressed = zlib.compress(source.encode())
 encoded = base64.b64encode(compressed).decode()
+
 stub = f'''#!/usr/bin/env python3
 import zlib, base64, os
 exec(zlib.decompress(base64.b64decode("{encoded}")))
 '''
+
 with open('manzax_encrypted.py', 'w') as f:
     f.write(stub)
+
 print("✅ manzax_encrypted.py berhasil dibuat!")
 
-Simpan (Ctrl+X, Y, Enter).
+Simpan (Ctrl+O, enter,X Enter).
 
 1.3 Jalankan builder
 bash
