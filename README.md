@@ -94,7 +94,7 @@ Paste support key yang Anda terima dari penjual, lalu tekan Enter.
 
 Jika valid, script akan berjalan dan menampilkan menu utama generator.
 
-🛠️ Bagian 4: Troubleshooting
+#🛠️ Bagian 4: Troubleshooting
 Masalah	Solusi
 ModuleNotFoundError: No module named 'Crypto'	Jalankan pip install pycryptodome
 ModuleNotFoundError: No module named 'requests'	Jalankan pip install requests
