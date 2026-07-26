@@ -105,7 +105,7 @@ File tidak ditemukan	Pastikan manzax_encrypted.py berada di direktori yang sama 
 Error lain	Periksa koneksi internet dan pastikan tidak ada firewall yang memblokir akses ke Garena
 📞 Kontak Support
 Jika ada kendala, hubungi:
-# 📱 Telegram: [@MANZAX_SUPPORT]
+# 📱Telegram: [@MANZAX_SUPPORT]
 
 # ⚠️ Disclaimer
 Script ini dibuat untuk tujuan edukasi. Penggunaan di luar tanggung jawab pengguna.
