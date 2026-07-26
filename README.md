@@ -111,3 +111,7 @@ Script ini dibuat untuk tujuan edukasi. Penggunaan di luar tanggung jawab penggu
 Pastikan Anda mematuhi kebijakan layanan Garena/Free Fire.
 
 Selamat menggunakan MANZAX GENERATOR! 🚀
+
+# FREE KEY LICENSE
+# MANZAX-2-39d983767d61fb79051aa612d7b88c76-1785663918-7af60ee4698a
+EXP: 02-08-2026 (Minggu) | 7 Hari
