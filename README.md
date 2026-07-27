@@ -9,8 +9,19 @@
 
 ## 📌 Deskripsi
 
-**MANZAX GENERATOR** adalah tools premium untuk menghasilkan akun **Free Fire (FF)** dengan kecepatan super ekstrim.  
+**MANZAX GENERATOR** adalah tools Trial/Premium untuk menghasilkan akun **Free Fire (FF)** dengan kecepatan super ekstrim.  
 Dirancang dengan arsitektur multi-threading tingkat tinggi, tools ini mampu menghasilkan ratusan akun dalam hitungan menit.
+
+---
+
+## 🔑 BELI KEY SC PERMANEN
+
+💬 Chat: @MANZAX_SUPPORT
+       : https://whatsapp.com/channel/0029VbD4uxnGE56k4qcTnZ2U
+
+✅ Akses permanen
+✅ Update gratis (sesuai ketentuan)
+✅ Support jika mengalami kendala
 
 ---
 
