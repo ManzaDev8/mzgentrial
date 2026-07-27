@@ -1,5 +1,5 @@
 ```markdow
-# 🔥 MANZAX GENERATOR – ULTRA SPEED EDITION (OB54)
+🔥 MANZAX GENERATOR – ULTRA SPEED EDITION (OB54)
 
 ![Version](https://img.shields.io/badge/Version-5.0-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.12%2B-brightgreen.svg)
@@ -111,7 +111,7 @@ Setelah proses selesai, folder-folder berikut akan muncul secara otomatis:
 Jika mengalami kendala atau membutuhkan bantuan, silakan hubungi:
 
 · Telegram: @MANZAX_SUPPORT
-· WhatsApp Channel: https://whatsapp.com/channel/0029VbD4uxnGE56k4qcTnZ2U
+· WhatsApp Channel: klik di sini https://whatsapp.com/channel/0029VbD4uxnGE56k4qcTnZ2U
 
 ---
 
