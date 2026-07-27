@@ -57,10 +57,10 @@ pkg install python
 
 🚀 Cara Menjalankan
 
-1. Pastikan file AegisCrypt_PROTECTED.py (atau brand lainnya) sudah berada di direktori kerja Anda.
+1. Pastikan file Quantumztrial.py (atau brand lainnya) sudah berada di direktori kerja Anda.
 2. Jalankan perintah:
    ```bash
-   python AegisCrypt_PROTECTED.py
+   python Quantumztrial.py
    ```
 3. Masukkan Support Key yang telah diberikan saat pembelian.
 4. Pilih Region yang diinginkan.
@@ -112,6 +112,10 @@ Jika mengalami kendala atau membutuhkan bantuan, silakan hubungi:
 
 · Telegram: @MANZAX_SUPPORT
 · WhatsApp Channel: klik di sini https://whatsapp.com/channel/0029VbD4uxnGE56k4qcTnZ2U
+
+FREE KEY: MANZAX-2-4b9dc28fdd7943f1f2c41e20e1ec42f6-1785841158-970b5c74f372
+Aktif : 27 Juli 2026
+Expired : 3 Agustus 2026 (7 Hari)
 
 ---
 
