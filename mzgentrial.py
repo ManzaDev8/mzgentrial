@@ -1,4 +1,4 @@
-#!/usr/bin/env python3/python
+#!/usr/bin/env python3
 #⚠️ WARNING
 #JANGAN UBAH SCRIPT PYTHON GENERATOR ID INI.
 #Segala bentuk modifikasi, penghapusan #kredit, atau perubahan logika script tidak #diizinkan.
