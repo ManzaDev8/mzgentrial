@@ -111,10 +111,10 @@ Setelah proses selesai, folder-folder berikut akan muncul secara otomatis:
 Jika mengalami kendala atau membutuhkan bantuan, silakan hubungi:
 
 · Telegram: @MANZAX_SUPPORT
-· WhatsApp Channel: Klik di sini
+· WhatsApp Channel: https://whatsapp.com/channel/0029VbD4uxnGE56k4qcTnZ2U
 
 ---
 
 <div align="center">
-  <sub>© 2026 MANZAX DEV • Ultra Speed Edition OB54</sub>
-</div>🚀
+  <sub>© 2026 MANZAX DEV • Ultra Speed Edition OB54🚀</sub>
+</div>
